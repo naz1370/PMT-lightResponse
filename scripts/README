@@ -1,0 +1,3 @@
+The output.root file is the input for IntPeakFinder.C script. 
+The IntPeakFinder.C script save the data in one .txt file.
+The Plot-PMTsLR.py asks for the PMT dark and creates the Final plot and create the final desired data in a .txt file. 
