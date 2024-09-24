@@ -1,0 +1,2 @@
+This script reads the text files, create histograms based on them and store them in an output.root file.
+The output.root includes the histograms from the text files. 
